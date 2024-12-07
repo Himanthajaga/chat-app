@@ -1,0 +1,46 @@
+.pane{
+    -fx-background-color: white;
+}
+
+.mfx-text-field{
+    -mfx-main: #3498db;
+    -fx-font-size: 16;
+}
+
+.mfx-text-field-error{
+    -mfx-main: #f52d2d;
+    -fx-font-size: 16;
+}
+
+.text-field{
+    -fx-background-color: transparent;
+}
+
+.scroll-pane-menu{
+   - fx-background: transparent;
+    -fx-background-color: transparent;
+    -fx-background-insets: 0;
+    -fx-padding: 0;
+}
+
+.mfx-button-menu{
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-background-color: transparent;
+}
+
+.mfx-button-login{
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-background-color: #3498db;
+    -fx-text-fill: #ffffff;
+}
+
+
+.mfx-button-createAccount{
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-background-color: #2c2d33;
+    -fx-text-fill: #ffffff;
+}
+
